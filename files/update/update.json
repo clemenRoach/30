@@ -1,34 +1,15 @@
 {
   "show": true,
-  "date": "2025-06-24",
-  "start_time": "07:00:00",
-  "end_time": "23:59:00",
-  "title": "🌸 Blessings of the Day 💒",
+  "title": "🌸 Blessings <i>Today</i>",
   "titleFontSize": 22,
   "titleAlignment": "center",
   "image": "https://yourdomain.com/images/blessing.png",
-  "imageWidth": 300,
-  "imageHeight": 180,
-  "imageAlignment": "center",
-  "images": [
-    "https://yourdomain.com/images/blessing2.png",
-    "https://yourdomain.com/images/blessing3.png"
-  ],
   "messages": [
     {
-      "text": "Start your day with prayer.",
-      "fontSize": 16,
-      "alignment": "center"
+      "text": "<p><b>Start your day with prayer</b></p><ul><li>Reflect</li><li>Serve</li><li>Smile</li></ul>"
     },
     {
-      "text": "• Reflect\\n• Serve\\n• Smile",
-      "fontSize": 14,
-      "alignment": "left"
-    },
-    {
-      "text": "🙏\tBe grateful and smile.",
-      "fontSize": 15,
-      "alignment": "right"
+      "text": "<p style='text-align:right;'>🙏 Stay Grateful</p>"
     }
   ],
   "link": "https://www.youtube.com/channel/UCfaLGDEQPDvuqM000ny5upg"
