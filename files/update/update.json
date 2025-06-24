@@ -9,7 +9,7 @@
   "imageWidth": 320,
   "imageHeight": 180,
   "imageAlignment": "center",
-  "image": "https://yourdomain.com/images/blessing.png",
+  "image": "images/blessing.png",
   "images": [
     "https://yourdomain.com/images/blessing2.png",
     "https://yourdomain.com/images/blessing3.png"
