@@ -4,11 +4,15 @@
   "start_time": "07:00:00",
   "end_time": "23:59:00",
   "title": "🌸 Blessings of the Day 💒",
+  "titleFontSize": 14,
   "message": "Start your day with prayer.\n\n• Reflect\n• Serve\n• Smile",
+  "messageFontSize": 12,
   "image": "images/blessing.png",
   "images": [
     "images/blessing2.png",
     "images/blessing3.png"
   ],
+  "imageWidth": 320,
+  "imageHeight": 180,
   "link": "https://www.youtube.com/channel/UCfaLGDEQPDvuqM000ny5upg"
 }
