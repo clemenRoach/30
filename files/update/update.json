@@ -26,4 +26,29 @@
     }
   ],
   "link": "https://www.youtube.com/channel/UCfaLGDEQPDvuqM000ny5upg"
+},
+{
+  "show": true,  
+  "title": "Welcome",
+  "titleFontSize": 24,
+  "titleAlignment": "center",
+  "imageWidth": 320,
+  "imageHeight": 180,
+  "imageAlignment": "center",
+  "image": "images/blessing.png",
+  "messages": [
+    {
+      "text": "<p style='text-align:center; font-size: 18px;'>🕊️ Start your day with prayer</p>"
+    },
+    {
+      "text": "<ul><li><b>Reflect</b></li><li><i>Serve</i></li><li><u>Smile</u></li></ul>"
+    },
+    {
+      "text": "<p style='text-align:right;'>Stay <span style='color:#009688;'>grateful</span>.</p>"
+    },
+     {
+      "text": "<p>Below is My Youtube Channel Link</p>"
+    }
+  ],
+  "link": "https://www.youtube.com/channel/UCfaLGDEQPDvuqM000ny5upg"
 }
