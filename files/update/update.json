@@ -35,7 +35,7 @@
     "titleAlignment": "center",
     "buttonText": "Watch Now",
     "imageWidth": 320,
-    "imageHeight": 210,
+    "imageHeight": 250,
     "imageAlignment": "center",
     "image": "blessing.png",
     "messages": [
@@ -49,7 +49,7 @@
         "text": "<p style='text-align:right;'>Stay <span style='color:#009688;'>grateful</span>.</p>"
       },
       {
-        "text": "<p>Below is My Youtube Channel Link</p>"
+        "text": "<p>Google</p>"
       }
     ],
     "link": "https://www.google.com/"
