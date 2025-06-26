@@ -1,7 +1,7 @@
 [
   {
     "file": "update.json",
-    "baseImageUrl": "https://raw.githubusercontent.com/clemenRoach/30/main/files/update/images/"
+    "baseImageUrl": "https://raw.githubusercontent.com/clemenRoach/30/main/files/update/"
   },
   {
     "file": "update1.json",
