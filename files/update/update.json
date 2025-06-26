@@ -10,7 +10,7 @@
     "imageWidth": 320,
     "imageHeight": 180,
     "imageAlignment": "center",
-    "image": "images/blessing.png",
+    "image": "blessing.png",
     "images": [
       "https://yourdomain.com/images/blessing2.png",
       "https://yourdomain.com/images/blessing3.png"
@@ -37,7 +37,7 @@
     "imageWidth": 320,
     "imageHeight": 180,
     "imageAlignment": "center",
-    "image": "images/blessing.png",
+    "image": "blessing.png",
     "messages": [
       {
         "text": "<p style='text-align:center; font-size: 18px;'>🕊️ Start your day with prayer</p>"
