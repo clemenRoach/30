@@ -33,6 +33,7 @@
     "title": "Welcome",
     "titleFontSize": 24,
     "titleAlignment": "center",
+    "buttonText": "Watch Now",
     "imageWidth": 320,
     "imageHeight": 180,
     "imageAlignment": "center",
