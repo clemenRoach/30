@@ -1,5 +1,14 @@
 [
-  "update.json",
-  "update1.json",
-  "update2.json"
+  {
+    "file": "update.json",
+    "baseImageUrl": "https://raw.githubusercontent.com/clemenRoach/30/main/files/update/images/"
+  },
+  {
+    "file": "update1.json",
+    "baseImageUrl": "https://cdn.myhost.com/assets/imgs/"
+  },
+  {
+    "file": "update2.json",
+    "baseImageUrl": "https://anotherhost.com/notifications/images/"
+  }
 ]
